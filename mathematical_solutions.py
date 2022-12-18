@@ -13,3 +13,12 @@ a = 30
 b = 10
 c = a-b
 print(c)
+
+"""
+multiplication
+"""
+a = 5
+b = 3
+c = a*b
+print(c)
+
