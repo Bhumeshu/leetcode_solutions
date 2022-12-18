@@ -1,5 +1,5 @@
 """
-additon
+addition
 """
 a = 5
 b = 20
@@ -7,7 +7,7 @@ c = a+b
 print(c)
 
 """
-substract
+subtract
 """
 a = 30
 b = 10
@@ -22,3 +22,9 @@ b = 3
 c = a*b
 print(c)
 
+"""
+square
+"""
+a = 5
+b = 2
+print(pow(a, b))
