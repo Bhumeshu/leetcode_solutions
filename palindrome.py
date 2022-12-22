@@ -11,7 +11,7 @@ def palindrome_check(word):
     b.reverse()
     print(b)
     if a == b:
-        return True
+       return True
     else:
         return False
 
